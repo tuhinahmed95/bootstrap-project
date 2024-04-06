@@ -1,0 +1,106 @@
+.container{ 
+    width: 100%;
+   
+    margin: 0px;
+    
+}
+.nav ul{ 
+    width: 100%;
+    justify-content: space-between;
+    list-style-type: none;
+    display: flex;
+    height: 50px;
+    padding-top: 10px;
+}
+.nav ul li:hover{ 
+    background-color: darkturquoise;
+    color: red;
+}
+
+.main-body{ 
+    width: 100%;
+    display: flex;
+    margin: 0px;
+}
+
+.side-bar{ 
+    width: 20%;
+    padding-right: 10px;
+
+}
+
+.side-bar a{ 
+    text-decoration: none;
+    
+}
+
+.body{ 
+    width: 80%;
+    
+    
+   
+    
+}
+
+.m1{ 
+    width: 25%;
+    float: left;
+    margin-right: 5px;
+    margin-top: 5px;
+
+}
+.m1 img{ 
+    width: 100%;
+   
+}
+.m2{ 
+    width: 25%;
+    float: left;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+.m2 img{ 
+    width: 100%;
+    
+}
+.m3{ 
+    width: 25%;
+    float: left;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.m3 img{ 
+    width: 100%;
+   
+}
+
+.m4{ 
+    width: 25%;
+    float: left;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.m4 img{ 
+    width: 100%;
+   
+}
+
+.n1{ 
+    width: 25%;
+    margin-top: 5px;
+    margin-right: 5px;
+    float: left;
+}
+.n1 img{ 
+    width: 100%;
+}
+.n2{ 
+    width: 25%;
+    margin-top: 5px;
+    margin-right: 5px;
+    float: left;
+}
+.n2 img{ 
+    width: 100%;
+}
+
